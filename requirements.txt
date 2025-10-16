@@ -1,5 +1,4 @@
 pymupdf
-PySimpleGUI
 pdfrw
 reportlab
 flet >=0.70.0.dev0
